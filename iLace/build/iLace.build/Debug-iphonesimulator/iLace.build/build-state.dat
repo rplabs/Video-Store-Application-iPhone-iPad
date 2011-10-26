@@ -1,0 +1,310 @@
+TiLace
+v7
+r0
+t341244589.287976
+cCheck dependencies
+cProcessInfoPlistFile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/Info.plist iLace-Info.plist
+cCompileXIB /Users/alessio/Developer/iLace/MainWindow.xib
+cCompileXIB /Users/alessio/Developer/iLace/iLaceViewController.xib
+cCpResource build/Debug-iphonesimulator/iLace.app/entry.m4v entry.m4v
+cProcessPCH /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch.gch iLace_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/main.o /Users/alessio/Developer/iLace/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceAppDelegate.o /Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceViewController.o /Users/alessio/Developer/iLace/Classes/iLaceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace normal i386
+cGenerateDSYMFile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app.dSYM /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace
+cTouch /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D5EBF360000000000000294
+t1298054966
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5EBF5300000000001C31B0
+t1298054995
+s1847728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.h
+c000000004EA6BF1A00000000000001CF
+t1319550746
+s463
+i<UIKit/UIKit.h>
+
+N/Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m
+c000000004EA6BF1A0000000000000A9C
+t1319550746
+s2716
+i"iLaceAppDelegate.h"
+i"iLaceViewController.h"
+
+N/Users/alessio/Developer/iLace/Classes/iLaceViewController.h
+c000000004EA6C0C0000000000000013A
+t1319551168
+s314
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/alessio/Developer/iLace/Classes/iLaceViewController.m
+c000000004EA6C4730000000000000997
+t1319552115
+s2455
+i"iLaceViewController.h"
+
+N/Users/alessio/Developer/iLace/English.lproj/iLaceViewController.xib
+c000000004EA6BF1A0000000000001A3D
+t1319550746
+s6717
+
+N/Users/alessio/Developer/iLace/MainWindow.xib
+c000000004EA6BF1A0000000000004E11
+t1319550746
+s19985
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app
+t1319551789
+s272
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app.dSYM
+t1319551789
+s102
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/English.lproj/iLaceViewController.nib
+t2
+s0
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/Info.plist
+t1319550891
+s583
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/MainWindow.nib
+t1319550892
+s1677
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/PkgInfo
+t1319550891
+s8
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/entry.m4v
+t1319550892
+s702089
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/entry.mp4
+t2
+s0
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace
+t1319551789
+s17992
+
+N/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLaceViewController.nib
+t1319550892
+s1269
+
+N/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLace.LinkFileList
+c000000004EA6BFAB0000000000000165
+t1319550891
+s357
+
+N/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceAppDelegate.o
+t1319551789
+s51496
+
+N/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceViewController.o
+t1319551789
+s44296
+
+N/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/main.o
+t1319550893
+s6296
+
+N/Users/alessio/Developer/iLace/entry.m4v
+c000000004EA6BC1400000000000AB689
+t1319549972
+s702089
+
+N/Users/alessio/Developer/iLace/entry.mp4
+c000000004EA6B9B700000000000847AD
+t1319549367
+s542637
+
+N/Users/alessio/Developer/iLace/iLaceViewController.xib
+c000000004EA6BF1A0000000000001A3D
+t1319550746
+s6717
+
+N/Users/alessio/Developer/iLace/iLace_Prefix.pch
+c000000004EA6BF1A00000000000000B3
+t1319550746
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alessio/Developer/iLace/main.m
+c000000004EA6BF1A0000000000000163
+t1319550746
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch.gch
+t1319550893
+s15814064
+
+NiLace-Info.plist
+c000000004EA6BF1A000000000000038D
+t1319550746
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341244588#341244588#0(0"0(0#1#0"8601650080#0"0#
+
+CCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceAppDelegate.o /Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341244588.895869
+e341244589.012264
+r1
+xCompileC
+xbuild/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceAppDelegate.o
+x/Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m341244588#341244589#0(0"0(0#0#57"/Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m8615884288#1818"    cd /Users/alessio/Developer/iLace    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-generated-files.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-own-target-headers.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-all-target-headers.hmap -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-project-headers.hmap -F/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -I/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/include -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources/i386 -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources -include /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch -c /Users/alessio/Developer/iLace/Classes/iLaceAppDelegate.m -o /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceAppDelegate.o0#
+
+CCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceViewController.o /Users/alessio/Developer/iLace/Classes/iLaceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341244588.896781
+e341244589.048248
+r1
+xCompileC
+xbuild/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceViewController.o
+x/Users/alessio/Developer/iLace/Classes/iLaceViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/alessio/Developer/iLace/Classes/iLaceViewController.m341244588#341244589#0(0"0(0#0#60"/Users/alessio/Developer/iLace/Classes/iLaceViewController.m8619392192#1824"    cd /Users/alessio/Developer/iLace    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-generated-files.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-own-target-headers.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-all-target-headers.hmap -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-project-headers.hmap -F/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -I/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/include -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources/i386 -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources -include /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch -c /Users/alessio/Developer/iLace/Classes/iLaceViewController.m -o /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLaceViewController.o0#
+
+CCompileC build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/main.o /Users/alessio/Developer/iLace/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341243693.118655
+e341243693.182036
+r1
+xCompileC
+xbuild/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/main.o
+x/Users/alessio/Developer/iLace/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/alessio/Developer/iLace/main.m341243693#341243693#0(0"0(0#0#37"/Users/alessio/Developer/iLace/main.m8619381344#1786"    cd /Users/alessio/Developer/iLace    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-generated-files.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-own-target-headers.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-all-target-headers.hmap -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-project-headers.hmap -F/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -I/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/include -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources/i386 -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources -include /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch -c /Users/alessio/Developer/iLace/main.m -o /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/alessio/Developer/iLace/English.lproj/iLaceViewController.xib
+r0
+
+CCompileXIB /Users/alessio/Developer/iLace/MainWindow.xib
+s341243692.008362
+e341243692.486905
+r1
+xCompileXIB
+x/Users/alessio/Developer/iLace/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341243692#341243692#0(0"0(0#0#45"/Users/alessio/Developer/iLace/MainWindow.xib8619638784#544"    cd /Users/alessio/Developer/iLace    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/MainWindow.nib /Users/alessio/Developer/iLace/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/alessio/Developer/iLace/iLaceViewController.xib
+s341243692.009121
+e341243692.431108
+r1
+xCompileXIB
+x/Users/alessio/Developer/iLace/iLaceViewController.xib
+lSLF07#2@34"CompileXIB iLaceViewController.xib341243692#341243692#0(0"0(0#0#54"/Users/alessio/Developer/iLace/iLaceViewController.xib8619367328#562"    cd /Users/alessio/Developer/iLace    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLaceViewController.nib /Users/alessio/Developer/iLace/iLaceViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iLace.app/entry.m4v entry.m4v
+s341243692.431180
+e341243692.452941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iLace.app/entry.m4v
+xentry.m4v
+lSLF07#2@14"Copy entry.m4v341243692#341243692#0(0"0(0#0#40"/Users/alessio/Developer/iLace/entry.m4v8618144192#441"    cd /Users/alessio/Developer/iLace    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alessio/Developer/iLace/entry.m4v /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app0#
+
+CCpResource build/Debug-iphonesimulator/iLace.app/entry.mp4 entry.mp4
+r0
+
+CGenerateDSYMFile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app.dSYM /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace
+s341244589.183247
+e341244589.285839
+r1
+xGenerateDSYMFile
+x/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app.dSYM
+x/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/iLace.app.dSYM build/Debug-iphonesimulator/iLace.app/iLace341244589#341244589#0(0"0(0#0#74"/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace8615389824#353"    cd /Users/alessio/Developer/iLace    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace -o /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app.dSYM0#
+
+CLd /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace normal i386
+s341244589.048324
+e341244589.183170
+r1
+xLd
+x/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace
+xnormal
+xi386
+lSLF07#2@79"Link /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace341244589#341244589#0(0"0(0#0#0"8599939008#873"    cd /Users/alessio/Developer/iLace    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -F/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -filelist /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/Objects-normal/i386/iLace.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/iLace0#
+
+CProcessInfoPlistFile /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/Info.plist iLace-Info.plist
+s341243691.970224
+e341243692.008292
+r1
+xProcessInfoPlistFile
+x/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/Info.plist
+xiLace-Info.plist
+lSLF07#2@24"Process iLace-Info.plist341243691#341243692#0(0"0(0#0#47"/Users/alessio/Developer/iLace/iLace-Info.plist8618114208#449"    cd /Users/alessio/Developer/iLace    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iLace-Info.plist -genpkginfo /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app/Info.plist0#
+
+CProcessPCH /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch.gch iLace_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341243692.487006
+e341243693.118573
+r1
+xProcessPCH
+x/var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch.gch
+xiLace_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iLace_Prefix.pch341243692#341243693#0(0"0(0#0#47"/Users/alessio/Developer/iLace/iLace_Prefix.pch8614803744#1688"    cd /Users/alessio/Developer/iLace    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-generated-files.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-own-target-headers.hmap -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-all-target-headers.hmap -iquote /Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/iLace-project-headers.hmap -F/Users/alessio/Developer/iLace/build/Debug-iphonesimulator -I/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/include -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources/i386 -I/Users/alessio/Developer/iLace/build/iLace.build/Debug-iphonesimulator/iLace.build/DerivedSources -c /Users/alessio/Developer/iLace/iLace_Prefix.pch -o /var/folders/yt/yt9ihG1fFJOzN9Nbdx9TuE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iLace_Prefix-beichyeajsnfzsggmerkwnoqmipz/iLace_Prefix.pch.gch0#
+
+CTouch /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app
+s341244589.285913
+e341244589.287947
+r1
+xTouch
+x/Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app
+lSLF07#2@74"Touch /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app341244589#341244589#0(0"0(0#0#0"8613629952#260"    cd /Users/alessio/Developer/iLace    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alessio/Developer/iLace/build/Debug-iphonesimulator/iLace.app0#
+
